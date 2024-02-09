@@ -1,9 +1,7 @@
 # coffeeapp
 
 A new Flutter project.
-
-![image](https://github.com/codingwithpawan/codingwithpawan/assets/159536136/483f696b-2e4f-49c7-b8bd-ca5de11170b5)
-
+![image](https://github.com/pawanbhayde/codingwithpawan/assets/82137686/485ebf4a-88ca-44a4-a584-02fd923f9c34)
 
 ## Getting Started
 

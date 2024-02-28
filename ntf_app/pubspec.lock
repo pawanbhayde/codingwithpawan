@@ -75,6 +75,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  glass:
+    dependency: "direct main"
+    description:
+      name: glass
+      sha256: "6b33f00a37f15c89b19ee29d1d234bdea221584010a7d53fd220657e475a6a3b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0+1"
   lints:
     dependency: transitive
     description:
@@ -186,3 +194,4 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.6 <4.0.0"
+  flutter: ">=1.17.0"
